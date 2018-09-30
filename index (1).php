@@ -16,7 +16,7 @@ $c++;
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="http://frontend.oss.aliyuncs.com/bootstrap/2.3.1/css/bootstrap.min.css" rel="stylesheet" media="screen">
 <style>
-body {margin: 5px;}
+body {margin: 10px; }
 </style>
 </head>
 <body>
